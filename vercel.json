@@ -1,5 +1,5 @@
 {
-  "redirects": [
-    { "source": "/main", "destination": "/login.html", "permanent": true }
+  "rewrites": [
+    { "source": "/rewrite-path", "destination": "/login.html" }
   ]
 }
